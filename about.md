@@ -3,8 +3,9 @@ layout: page
 title: About
 ---
 
-Hello.
-
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
+Rely on yourself only
 
 **Less is more..**
+
+
+Theme: **_Fork_** or **_download_** the theme [here on GitHub](https://github.com/heiswayi/the-plain).

@@ -8,10 +8,9 @@
 		{% assign prompt = 'Back to Index' %}
 	{% endif %}
 
-	<a href="{{ link | prepend: site.baseurl | prepend: site.url }}" style="display: inline-flex;">
-		<img src="{{ site.logo_url }}" alt="" class="logo-avatar">
-		<strong>HomoFuturis</strong>
+	<a href="{{ link | prepend: site.baseurl | prepend: site.url }}">
+		{{ site.logo_text }}
+		<!-- <strong>HomoFuturis</strong> -->
 	</a>
-	<span class="logo-prompt code">{{ prompt }}</span>
 
 </aside>

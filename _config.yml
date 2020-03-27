@@ -2,7 +2,7 @@
 title:              "HomoFuturis"
 description:        "you know everything you are"
 author_name:        "Homo Futuris" # change this to your name
-logo_url:           https://avatars1.githubusercontent.com/u/62358163?s=460 # Get it from GitHub API: https://api.github.com/users/<username>
+logo_text:          "Homo Futuris" # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
 url:                https://homofuturis.github.io # main url

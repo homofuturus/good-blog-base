@@ -1,7 +1,7 @@
-{% if page.comments != false %}
+{% if page.comments != false and jekyll.environment == "production" %}
     {% assign disqus_url = page.url | prepend: site.baseurl | prepend: site.url %}
 
-<div class="comments">
+<div class="section">
     <div id="disqus_thread"></div>
     <script>
 

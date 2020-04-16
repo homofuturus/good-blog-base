@@ -222,12 +222,12 @@ iframe {
   width: 100%;
 }
 article {
-  max-width: 700px;
+  max-width: 800px;
   margin: 0 auto;
   h1.title {
-    line-height: 1.4em;
+    line-height: 1.77em;
     text-align: center;
-    font-size: 1.4em;
+    font-size: 1.77em;
   }
   .divider {
     background: #ddd;
@@ -247,8 +247,8 @@ article {
     margin: 30px 0;
   }
   p {
-    font-size: 15px;
-    line-height: 1.9em;
+    font-size: 1.2em;
+    line-height: 1.5em;
     word-wrap: break-word;
   }
   .footnote {
@@ -348,6 +348,7 @@ section {
         text-decoration: none;
         border: 0;
         color: #000;
+        font-size: 1.2em;
         box-sizing: border-box;
       }
       .post-date {
@@ -357,7 +358,6 @@ section {
       span {
         display: inline-block;
         color: #757575;
-        letter-spacing: 1px;
         text-transform: uppercase;
       }
       @media (min-width: 992px) {a {

@@ -11,6 +11,7 @@ layout: default
 			{% capture year %}{{ post.date | date: '%B %Y' }}{% endcapture %}
 			{% capture nyear %}{{ post.next.date | date: '%B %Y' }}{% endcapture %}
 			{% if year != nyear %}
+				<hr>
 				<h3 class="code">{{ post.date | date: '%B %Y' }}</h3>
 			{% endif %}
 		{% endunless %}

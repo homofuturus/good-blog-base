@@ -1,5 +1,5 @@
 ---
-title: Why Coronavirus is not as dangerous as other diseases ?
+title: Why Coronavirus is not as dangerous as other diseases?
 updated: 2020-04-20 16:20
 ---
 

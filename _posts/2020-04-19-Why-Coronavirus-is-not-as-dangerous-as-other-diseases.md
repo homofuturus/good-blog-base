@@ -3,7 +3,7 @@ title: Why Coronavirus is not as dangerous as other diseases?
 updated: 2020-04-20 16:20
 ---
 
-Though I don't write, but looking at the serious measures taken by the World Governments I decided to clarify some things as we go about the only global lockdown amid the COVID-19 pandemic.
+Though I don't write, but looking at the serious measures taken by the World Governments I decided to clarify some things as we go about the only global lockdown in the history of mankind amid the COVID-19 pandemic.
 
 To start off, I would like to show some stats regarding other diseases that are highly prevalent in world apart from COVID-19.
 

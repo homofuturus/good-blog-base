@@ -7,6 +7,7 @@ We performed various tests on both Search Engines. We have selected few search t
 Search terms - 'Happy Birthday', 'Barack Obama', 'South Korea', 'Cayenne Pepper'
 
 ### Speed
+
 | Search term | Duckduckgo | Google |
 |----------------|:------------------------------------------------------------------------:|:------------:|
 | Happy Birthday | Does not report any time taken, but surely it is more than Google's time | 0.57 seconds |
@@ -15,6 +16,7 @@ Search terms - 'Happy Birthday', 'Barack Obama', 'South Korea', 'Cayenne Pepper'
 | Cayenne Pepper | Does not report any time taken, but surely it is more than Google's time | 0.55 seconds |
 
 ### Search Results
+
 | Search term | Duckduckgo | Google |
 |----------------|:------------------------------------------------------------------------:|:------------:|
 | Happy Birthday | Does not report number of results | 1,86,00,00,000 results |

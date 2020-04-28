@@ -13,7 +13,7 @@ body {
   line-height: 20px;
   font-weight: normal;
   font-style: normal;
-  font-family: -apple-system, Tillana, 'Open Sans', sans-serif;
+  font-family: 'Oswald', sans-serif;
   color: #333333;
   padding: 10px;
   margin: 0;
@@ -23,7 +23,9 @@ body {
     padding: 35px 50px;
   }
 }
-h1,
+h1 {
+  font-family: 'Condiment', cursive;
+},
 h2,
 h3,
 h4,

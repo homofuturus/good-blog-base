@@ -1,8 +1,8 @@
 # Site Info
-title:              "HomoFuturis"
+title:              "HomoFuturus"
 description:        "you know everything you are"
-author_name:        "Homo Futuris" # change this to your name
-logo_text:          "Homo Futuris" # Get it from GitHub API: https://api.github.com/users/<username>
+author_name:        "Homo Futurus" # change this to your name
+logo_text:          "HomoFuturus" # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
 url:                https://homofuturis.github.io # main url
@@ -16,6 +16,7 @@ highlighter:        rouge
 markdown:           kramdown
 kramdown:
     input:          GFM
+    syntax-highlighter: coderay
 sass:
     style:          :compressed
 

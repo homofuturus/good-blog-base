@@ -9,7 +9,6 @@ url:                https://homofuturis.github.io # main url
 baseurl:
 permalink:          /:title # Post permalink
 timezone:           Asia/Kolkata # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-google_analytics:   G-FKFRBVGCD6
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
 
 # Site Build
